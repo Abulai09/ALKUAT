@@ -332,10 +332,7 @@ ul {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Тень для контейнера */
 }
 
-.videovar{
-  display: flex;
-  gap: 10px;
-}
+
 
 .videopp{
   position: relative;
